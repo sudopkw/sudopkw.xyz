@@ -47,7 +47,7 @@
       "demoUrl": "https://github.com/sudopkw/fish-config-backup",
       "content": [
         "A {{config}} for the {{fish}} shell, made by {{yours truly}}, as a result of {{too much free time}} on my hands. It's a {{1100-something}} line config that does a bunch of {{useless shit}}, despite providing {{some}} useful things.\n But at least it looks {{pretty}}, am i rite?",
-        "In fact i was so bored, That i decided to add a 'modules' feature, That way not everybody who would use it has to have everything i have, as well as a personal.fish configuration file. \n  it basically enables not getting your custom commands wiped every time you decide to update B)"
+        "In fact i was so bored, That i decided to add a {{modules}} feature, That way not everybody who would use it has to have everything i have, but has an option to download it easily \n As well as a {{personal.fish}} configuration file. \n  it basically enables not getting your custom commands {{wiped}} every time you decide to update B)"
         
       ],
       "technologies": ["Bash"]
